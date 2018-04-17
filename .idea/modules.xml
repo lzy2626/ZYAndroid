@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ZYAndroidDemo.iml" filepath="$PROJECT_DIR$/ZYAndroidDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZYAndroid.iml" filepath="$PROJECT_DIR$/ZYAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/zyandroid/zyandroid.iml" filepath="$PROJECT_DIR$/zyandroid/zyandroid.iml" />
     </modules>
