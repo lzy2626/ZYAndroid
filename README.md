@@ -22,3 +22,18 @@ Step 2. Add the dependency
 	dependencies {
 	        compile 'com.github.lzy2626:ZYAndroid:v1.0'
 	}
+2018-04-17 v1.0
+
+**网络工具类NetUtils**
+```
+判断网络是否连接
+isConnected(Context context)
+return boolean
+
+判断是否是wifi连接
+isWifi(Context context)
+return boolean
+
+打开网络设置界面
+openSet(Activity activity)
+```
